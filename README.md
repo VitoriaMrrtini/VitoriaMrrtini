@@ -1,16 +1,38 @@
-### Hi there 👋
+# Bem vindos!
 
-<!--
-**VitoriaMrrtini/VitoriaMrrtini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Vitória Martins! 
 
-Here are some ideas to get you started:
+![PetVitoria](https://github.com/VitoriaMrrtini/VitoriaMrrtini/assets/139392804/96d01afb-89bb-4fd2-a7cf-4a329db3d25d)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+:computer: I'm web developer learner!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently a student.
+
+:outbox_tray: 2024 Goals: create a new project and find a new job.
+
+## Social medias:
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/VitoriaMrrtini)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/vitoria-martins-alves-b90450249/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+## Accurate learning about:
+
+![HTML Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## Tracker:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriamrrtini&show_icons=true&theme=tokyonight)
+
+## Most used languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriamrrtini&layout=donut&theme=tokyonight)](https://github.com/vitoriamrrtini/github-readme-stats)
+
+- Thanks for visiting.
+
+- Enjoy it!! :wink:
