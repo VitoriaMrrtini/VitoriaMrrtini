@@ -2,8 +2,7 @@
 
 ## I'm Vitória Martins! 
 
-![PetVitoria](https://github.com/VitoriaMrrtini/VitoriaMrrtini/assets/139392804/96d01afb-89bb-4fd2-a7cf-4a329db3d25d)
-
+![PetVitoria](https://github.com/VitoriaMrrtini/VitoriaMrrtini/assets/139392804/3b8ea0d9-3ccd-4307-a9d1-fe2a381b7c0c)
 
 :computer: I'm web developer learner!
 
