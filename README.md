@@ -1,6 +1,6 @@
 # Welcome!
 
-## Hello i'm Vitória Martins!
+## I'm Vitória Martins!
 
 :computer: I'm web developer learner!
 
