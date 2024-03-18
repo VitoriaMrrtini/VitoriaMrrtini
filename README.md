@@ -32,7 +32,7 @@
 
 ## Stats
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitoriamrrtini&layout=donut&theme=tokyonight)](https://github.com/VitoriaMrrtini/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitoriamrrtini&theme=tokyonight)](https://github.com/VitoriaMrrtini/github-readme-stats)
 
 - Thanks for visiting.
 
