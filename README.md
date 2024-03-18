@@ -2,8 +2,6 @@
 
 ## I'm Vitória Martins! 
 
-![PetVitoria](https://github.com/VitoriaMrrtini/VitoriaMrrtini/assets/139392804/3b8ea0d9-3ccd-4307-a9d1-fe2a381b7c0c)
-
 :computer: I'm web developer learner!
 
 :house_with_garden: I’m from Brazil.
@@ -31,6 +29,10 @@
 ## Most used languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriamrrtini&layout=donut&theme=tokyonight)](https://github.com/vitoriamrrtini/github-readme-stats)
+
+## Stats
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitoriamrrtini&layout=donut&theme=tokyonight)](https://github.com/VitoriaMrrtini/github-readme-stats)
 
 - Thanks for visiting.
 
