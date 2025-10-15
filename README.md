@@ -2,13 +2,11 @@
 
 ## I'm Vitória Martins!
 
-:computer: I'm web developer learner!
+:computer: I'm machine learning student!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently a student.
-
-:outbox_tray: 2024 Goals: create a new project and find a new job.
+:books: I’m currently a student at UTFPR.
 
 ## Social medias:
 
