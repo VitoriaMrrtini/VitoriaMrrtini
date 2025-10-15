@@ -7,8 +7,8 @@
 
 ## Connect with me:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square\&logo=Github\&logoColor=white\&link=https://github.com/VitoriaMrrtini)](https://github.com/VitoriaMrrtini)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/vitoria-martins-alves-b90450249)](https://www.linkedin.com/in/vitoria-martins-alves-b90450249)
+[![Github Badge](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/VitoriaMrrtini)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-martins-alves-b90450249)
 
 ## Skills & Technologies:
 
