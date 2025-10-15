@@ -1,12 +1,9 @@
 # Welcome!
 
-## I'm Vitória Martins!
+### 👋 Olá! Eu sou a Vitória Martins Alves
 
-💻 I'm a machine learning student passionate about technology and innovation.
-
-🏡 I'm from Brazil.
-
-🎓 Currently studying at UTFPR.
+💻 Estudante de Computação na UTFPR  
+📚 Interessada em programação, tecnologia e inovação
 
 ## Connect with me:
 
