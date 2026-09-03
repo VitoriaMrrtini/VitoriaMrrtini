@@ -30,18 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats | Estatísticas do GitHub:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitoriaMrrtini&theme=transparent&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
-
----
-
-## 🔤 Most Used Languages | Linguagens Mais Usadas:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaMrrtini&layout=compact&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
-
----
-
 ## 🔥 Streak:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VitoriaMrrtini&theme=transparent&background=000000&border=30A3DC&ring=E94D5F&fire=E94D5F&currStreakLabel=FFFFFF&sideNums=30A3DC&sideLabels=FFFFFF&dates=AAAAAA)](https://git.io/streak-stats)
